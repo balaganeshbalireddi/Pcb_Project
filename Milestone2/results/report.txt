@@ -1,0 +1,14 @@
+Overall Test Accuracy: 97.91%
+
+                 precision    recall  f1-score   support
+
+   missing_hole       1.00      1.00      1.00       100
+     mouse_bite       0.92      0.99      0.96       148
+   open_circuit       1.00      1.00      1.00        98
+          short       1.00      1.00      1.00       101
+           spur       0.99      0.93      0.96        99
+spurious_copper       0.99      0.95      0.97       123
+
+       accuracy                           0.98       669
+      macro avg       0.98      0.98      0.98       669
+   weighted avg       0.98      0.98      0.98       669
